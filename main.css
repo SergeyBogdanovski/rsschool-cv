@@ -1,7 +1,7 @@
-html {
+html, body {
   font-family: Verdana, sans-serif;
 }
-body {
+.centeredText {
   width= 1024px;
   display: flex;
   align-items: center;
