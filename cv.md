@@ -1,15 +1,15 @@
-#Sergey Bogdanovski
-####Contact Info
+# Sergey Bogdanovski
+#### Contact Info
 *Discord*: **Sergey(SergeyBogdanovski)**; *Viber, Telegram* **+375293842798**
-####Summary  
+#### Summary  
 I want to learn code in **JavaScript** so I`l be able to create some cool web stuff. I wish to work in great IT company. It`s important for me to have nice people at work, to get work done in **deadline** and **learning everything**)
-####Skills
+#### Skills
 I don`t have skills yet but i`m gone to **change it** 
-####Code examples
+#### Code examples
 console.log('Hello World!!!');
-####Experience
+#### Experience
 *Will be in future*
-####Education
+#### Education
 School, University, English courses
-####English
+#### English
 Had courses long time ago, but can **understand** other people and **speak** to anyboby. 
