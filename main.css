@@ -2,7 +2,7 @@ html, body {
   font-family: Verdana, sans-serif;
 }
 .centeredText {
-  width= 1024px;
+  width: 1024px;
   display: block;
   margin: auto;
 }
